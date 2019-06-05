@@ -1,0 +1,54 @@
+.ulbackground{
+	background-color: #128c7e;
+	padding-left: 30px;
+	padding-bottom: 32px;
+	padding-top: 30px;
+	padding-right: 0px;
+	margin: 0;
+	width: 100%;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.list-link{
+
+	text-decoration: none;
+	padding:16px 8px;
+	color: #ffffff;
+}
+
+.list-link:hover{
+ 
+	background-color: #76E77B;
+	
+}
+
+.navbutton{
+	padding: 0;
+	font-family: sans-serif;
+	font-size: 12px;
+	display: inline;
+}
+.navbutton {
+ 
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: left;
+  font-size: 15px;
+  margin: 2px 2px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.navbutton1 {
+  font-family: serif;
+  background-color: Transparent;  
+ 
+  border: transparent;
+}
+
+
+
