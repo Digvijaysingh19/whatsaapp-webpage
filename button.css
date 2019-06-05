@@ -1,0 +1,50 @@
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+
+  padding: 5px 10px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 2px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  font-family: serif;
+  background-color: Transparent;  
+  color: black; 
+  border: transparent;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.button2 {
+  font-family: serif;
+  background-color: Transparent; 
+  color: black; 
+border: transparent;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+.button3 {
+  font-family: serif;
+  background-color: Transparent; 
+  color: black;
+  border: transparent;
+}
+
+.button3:hover {
+  background-color: #f44336;
+  color: white;
+}
+
