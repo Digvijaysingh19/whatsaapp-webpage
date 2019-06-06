@@ -2,7 +2,9 @@ footer {
 	background-color: #C3073F;
     height: 50px;
     width: 100%;
-    margin:0; 
+    margin-top: :500px;
+    position: relative;
+
 }
 .active{
 	padding: 0;
