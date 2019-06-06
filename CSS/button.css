@@ -15,7 +15,7 @@
 }
 
 .button1 {
-  font-family: serif;
+  font-family: 'Indie Flower', cursive;
   background-color: Transparent;  
   color: black; 
   border: transparent;
@@ -26,7 +26,7 @@
   color: white;
 }
 .button2 {
-  font-family: serif;
+  font-family: 'Indie Flower', cursive;
   background-color: Transparent; 
   color: black; 
 border: transparent;
@@ -37,7 +37,7 @@ border: transparent;
   color: white;
 }
 .button3 {
-  font-family: serif;
+  font-family: 'Indie Flower', cursive;
   background-color: Transparent; 
   color: black;
   border: transparent;
