@@ -48,3 +48,32 @@ border: transparent;
   color: white;
 }
 
+
+
+.block :hover {
+
+  background-color: transparent;
+  color: black;
+  color: skyblue;
+  transform: scale(1.05);
+
+}
+.block1 :hover {
+  background-color: transparent;
+  color: black;
+  color: #dc4240;
+  transform: scale(1.05);
+}
+.block2 :hover {
+  background-color: transparent;
+  color: black;
+  color: #ddd845;
+  transform: scale(1.05);
+}
+.block3 :hover {
+  background-color: transparent;
+  color: black;
+  color: #6fe5d0;
+  transform: scale(1.05);
+}
+
